@@ -1,0 +1,137 @@
+[
+  {
+    "time": 1,
+    "close": 9614.24,
+    "high": 9615.25,
+    "low": 9611.68,
+    "open": 9612.62,
+    "volumefrom": 42.93,
+    "volumeto": 413400.36
+  },
+  {
+    "time": 2,
+    "close": 9616.5,
+    "high": 9619.15,
+    "low": 9612.97,
+    "open": 9613.37,
+    "volumefrom": 40.74,
+    "volumeto": 392266.53
+  },
+  {
+    "time": 3,
+    "close": 9625.31,
+    "high": 9627.14,
+    "low": 9616.49,
+    "open": 9616.49,
+    "volumefrom": 59.01,
+    "volumeto": 571268.4
+  },
+  {
+    "time": 4,
+    "close": 9636.65,
+    "high": 9636.65,
+    "low": 9623.55,
+    "open": 9626.01,
+    "volumefrom": 70.07,
+    "volumeto": 676455.88
+  },
+  {
+    "time": 5,
+    "close": 9637.69,
+    "high": 9640.65,
+    "low": 9631.77,
+    "open": 9635.45,
+    "volumefrom": 56.09,
+    "volumeto": 539885.01
+  },
+  {
+    "time": 6,
+    "close": 9640.09,
+    "high": 9641.55,
+    "low": 9635.35,
+    "open": 9637.69,
+    "volumefrom": 67.95,
+    "volumeto": 654422.07
+  },
+  {
+    "time": 7,
+    "close": 9626.56,
+    "high": 9640.2,
+    "low": 9626.56,
+    "open": 9640.11,
+    "volumefrom": 52.24,
+    "volumeto": 503272.3
+  },
+  {
+    "time": 8,
+    "close": 9620.68,
+    "high": 9629.63,
+    "low": 9619.01,
+    "open": 9629.47,
+    "volumefrom": 38.56,
+    "volumeto": 372187.02
+  },
+  {
+    "time": 9,
+    "close": 9629.47,
+    "high": 9631.92,
+    "low": 9619.95,
+    "open": 9620.68,
+    "volumefrom": 64.68,
+    "volumeto": 622675.38
+  },
+  {
+    "time": 10,
+    "close": 9633.82,
+    "high": 9633.89,
+    "low": 9624.64,
+    "open": 9629.47,
+    "volumefrom": 63.19,
+    "volumeto": 608127.45
+  },
+  {
+    "time": 11,
+    "close": 9634.82,
+    "high": 9642.76,
+    "low": 9633.82,
+    "open": 9633.82,
+    "volumefrom": 68.94,
+    "volumeto": 667723.04
+  },
+  {
+    "time": 12,
+    "close": 9644.37,
+    "high": 9646.4,
+    "low": 9634.82,
+    "open": 9634.82,
+    "volumefrom": 56.52,
+    "volumeto": 545601.37
+  },
+  {
+    "time": 13,
+    "close": 9646.05,
+    "high": 9650.03,
+    "low": 9643.87,
+    "open": 9644.37,
+    "volumefrom": 35.24,
+    "volumeto": 343224.58
+  },
+  {
+    "time": 14,
+    "close": 9640.31,
+    "high": 9647.95,
+    "low": 9637.47,
+    "open": 9645.65,
+    "volumefrom": 62.62,
+    "volumeto": 604124.7
+  },
+  {
+    "time": 15,
+    "close": 9641.54,
+    "high": 9643.36,
+    "low": 9637.53,
+    "open": 9637.53,
+    "volumefrom": 25.82,
+    "volumeto": 250094.81
+  }
+]

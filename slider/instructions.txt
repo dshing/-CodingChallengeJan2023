@@ -1,0 +1,5 @@
+Slider created using Javascript
+
+Run index.html
+
+Slider should be reactive and work on mobiles and desktops.

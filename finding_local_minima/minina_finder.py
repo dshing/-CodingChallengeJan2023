@@ -59,5 +59,5 @@ for item in data:
 file.close
 
 
-print(f"Method A local minima: {method_A(time_value)}")
-print(f"Method B local minima: {method_B(time_value)}")
+print(f"Method A local minima: {method_A(time_value)}") # [[9614.24, 1], [9620.68, 8], [9640.31, 14]]
+print(f"Method B local minima: {method_B(time_value)}") # [[9629.47, 9], [9641.54, 15]]

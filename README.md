@@ -1,4 +1,4 @@
-# DatenVorsprung Coding Challenge
+# Coding Challenge
 
 Welcome to the Readme of our Coding Challenge. The tasks for the Full Stack Developer
 Position are tasks 1,2 and 3. Please note: task 4 is only optional as it is a machine
